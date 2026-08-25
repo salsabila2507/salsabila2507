@@ -1,0 +1,16 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="moon" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(960 94) rotate(90) scale(140)"><stop stop-color="#E0231C" stop-opacity=".86"/><stop offset="1" stop-color="#E0231C" stop-opacity="0"/></radialGradient>
+    <linearGradient id="fade" x1="600" y1="0" x2="600" y2="360" gradientUnits="userSpaceOnUse"><stop stop-color="#0A0E12"/><stop offset="1" stop-color="#05070A"/></linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" stroke="#DFE7E0" stroke-opacity=".055"/></pattern>
+  </defs>
+  <rect width="1200" height="360" fill="url(#fade)"/><rect width="1200" height="360" fill="url(#grid)"/>
+  <circle cx="960" cy="94" r="140" fill="url(#moon)"/><circle cx="960" cy="94" r="45" fill="#E0231C" fill-opacity=".82"/>
+  <path d="M0 313C128 277 235 281 340 306C471 337 574 313 682 284C809 250 914 280 1200 226V360H0V313Z" fill="#080B0D"/>
+  <path d="M0 326C156 287 275 300 401 324C548 351 682 287 804 291C939 295 1069 322 1200 279" stroke="#DFE7E0" stroke-opacity=".14"/>
+  <path d="M71 70H178M71 78H150" stroke="#E0231C" stroke-width="3"/>
+  <text x="70" y="180" fill="#DFE7E0" font-family="Arial, Helvetica, sans-serif" font-size="90" font-weight="700" letter-spacing="-4">0XYAS</text>
+  <text x="74" y="221" fill="#AAB4AD" font-family="monospace" font-size="15" letter-spacing="4">WEB3 GROWTH / PRODUCT BUILDER</text>
+  <text x="1133" y="66" fill="#DFE7E0" fill-opacity=".65" font-family="Arial, sans-serif" font-size="21" writing-mode="tb" letter-spacing="7">ゼロヤス</text>
+  <text x="74" y="308" fill="#78837C" font-family="monospace" font-size="12" letter-spacing="2">JAKARTA · GMT+7 · BUILDING THE UNSEEN</text>
+</svg>
