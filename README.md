@@ -23,7 +23,9 @@ OPERATE    Linux · VPS · deployment · Web3 research
 
 | Project | What it is | Stack / Focus |
 | :--- | :--- | :--- |
+| **[iNeed AI](https://ineed.web.id)** | AI model access platform built to help beginners start using modern AI through one simple interface and API. | AI Infrastructure · API · Product |
 | **[Bountix](https://bountix.xyz)** | Web3 bounty platform connecting projects with contributors through structured on-chain work. | Product · Web3 · Community |
+| **[King Bitget Bot](https://github.com/salsabila2507/bitget-llm-bot)** | LLM-assisted Bitget USDT futures bot with dry-run learning, Telegram controls, and selectable trade profiles. | Python · LLM · Trading Automation |
 | **[0XYAS Portfolio](https://github.com/salsabila2507/0xyas-portfolio)** | Cinematic interactive portfolio powered by the ThreeUI Kage experience. | Three.js · WebGL · Creative Dev |
 | **[OpenSea Minter](https://github.com/salsabila2507/opminter)** | Telegram-controlled SeaDrop minting engine with scheduling and chain detection. | Rust · EVM · Telegram |
 | **[Confidential Payment](https://github.com/salsabila2507/confidential-payment)** | Privacy-preserving token transfers using the iExec Nox protocol. | TypeScript · Arbitrum · Privacy |
